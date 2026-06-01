@@ -1,10 +1,6 @@
 # File: initials.py
 # Description: Print out my initials in stylized large block letters.
 # Assignment Number: 1
-# File: initials.py
-# Description: Print out my initials.
-# Assignment Number: 1
-#
 # Name: Kwabena Sakyi Ansah
 # STUDENT ID:  2425403835
 # Email: 2425403835@live.gctu.edu.gh
